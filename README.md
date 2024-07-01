@@ -56,10 +56,10 @@
 </p>
 
 <h2 >📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=raul-espinosa-go&theme=tokyonight&show_icons=true&hide_border=falsecount_private=true" alt="Your GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raul-espinosa-go&theme=tokyonight&hide_border=false%22%20alt=%22aaronedev%27s%20Streak%22%20height=%22165" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raul-espinosa-go&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="raul-espinosa-go's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raul-espinosa-go&theme=tokyonight&hide_border=false" alt="raul-espinosa-go's Streak" height="165">
+  </p>
 
 <!-- <h2 >🏆 Notable Achievements</h2>
 <ul >
