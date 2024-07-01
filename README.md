@@ -73,8 +73,9 @@
 <h2 >🌐 Connect with Me</h2>
 <p >
   You can find me on the following platforms:<br>
-  <a href="https://www.linkedin.com/in/raulespinosagomez/" target="_blank">LinkedIn</a> |
-  <a href="https://www.artstation.com/raul_espinosa" target="_blank">ArtStation</a> |
+    <a href="mailto: raul.espinosa.go@gmail.com" target="_blank">Email</a> |
+    <a href="https://www.linkedin.com/in/raulespinosagomez/" target="_blank">LinkedIn</a> |
+    <a href="https://www.artstation.com/raul_espinosa" target="_blank">ArtStation</a> |
 </p>
 
 <hr>
