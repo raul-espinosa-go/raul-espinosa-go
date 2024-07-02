@@ -18,7 +18,8 @@
  <img src="https://badges.pufler.dev/repos/raul-espinosa-go"/>
  <img src="https://badges.pufler.dev/commits/monthly/raul-espinosa-go" />
 </p>
-<p >Welcome to my GitHub profile! I am <strong>Raúl Espinosa Gómez</strong>, a <strong>web developer</strong> based in <strong>Barcelona</strong>, passionate about <strong>music, videogames and web design</strong>.</p>
+<p>Welcome to my GitHub profile! I am <strong>Raúl Espinosa Gómez</strong>, a <strong>web developer</strong> based in <strong>Barcelona</strong>, passionate about <strong>music, videogames, and web design</strong>.</p>
+<p>I have a background in game development, having studied it from 2015 to 2020, and I transitioned to web development in 2022.</p>
 
 <h2>🚀 Technologies Stack</h2>
 <p>
