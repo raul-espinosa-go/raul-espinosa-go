@@ -1,4 +1,4 @@
-<h1 >Hi, I'm Raúl Espinosa 👋</h1>
+<h1 >Hi, I'm Raúl Espinosa Gómez 👋</h1>
 <p >
 <a href="mailto: raul.espinosa.go@gmail.com">
  <img src="https://img.shields.io/badge/-raul.espinosa.go-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
@@ -18,7 +18,7 @@
  <img src="https://badges.pufler.dev/repos/raul-espinosa-go"/>
  <img src="https://badges.pufler.dev/commits/monthly/raul-espinosa-go" />
 </p>
-<p >Welcome to my GitHub profile! I am <strong>Raúl Espinosa</strong>, a <strong>web developer</strong> based in <strong>Barcelona</strong>, passionate about <strong>music, videogames and web design</strong>.</p>
+<p >Welcome to my GitHub profile! I am <strong>Raúl Espinosa Gómez</strong>, a <strong>web developer</strong> based in <strong>Barcelona</strong>, passionate about <strong>music, videogames and web design</strong>.</p>
 
 <h2>🚀 Technologies Stack</h2>
 <p>
