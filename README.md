@@ -40,6 +40,7 @@
 <strong>Backend:</strong><br>
 <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" alt="Strapi">
 </p>
