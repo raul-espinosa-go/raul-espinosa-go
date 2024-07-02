@@ -51,6 +51,19 @@
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 <p>
+<strong>Game engines:</strong><br>
+<img src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity">
+<img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
+<img src="https://img.shields.io/badge/-GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="Unreal Engine">
+</p>
+<p>
+<strong>Art/Design:</strong><br>
+<img src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop">
+<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator">
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+</p>
+<p>
 <strong>Other Tools:</strong><br>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
